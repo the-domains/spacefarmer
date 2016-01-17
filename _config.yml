@@ -1,0 +1,40 @@
+favicon: null
+name: SpaceFarmer
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.9602152609732002
+  lightness: 0.7301403607707471
+  brandStrength: 0.8261649
+  brandColors:
+    - '#0F0D0C'
+    - '#6E6F6D'
+    - '#FFFFFF'
+    - '#C4C8C6'
+    - '#A31F0E'
+  rhythmicContrast: 0.0309643333312124
+typography_spectrum: 0.5915784351527691
+layout_spectrum: 0.4139785
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
