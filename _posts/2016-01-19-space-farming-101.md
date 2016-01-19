@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The beginning of My hydroponic adventure/experiment (AKA space farming) '
-datePublished: '2016-01-19T19:13:00.979Z'
+datePublished: '2016-01-19T19:13:01.030Z'
 dateModified: '2016-01-19T19:12:59.304Z'
 title: Space Farming 101
 author: []
