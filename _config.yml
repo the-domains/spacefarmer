@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Hydroponics with 3d printing, oodles of sensors, and some home-brewed automation'
+title: SpaceFarmer
 cta:
   domain: null
   bucket: null
