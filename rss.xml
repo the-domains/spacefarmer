@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hydroponics with 3d printing, oodles of sensors, and some home-brewed automation]]></title>
         <description><![CDATA[Hydroponics with 3d printing, oodles of sensors, and some home-brewed automation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spacefarmer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 18:48:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 19:13:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spacefarmer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Space Farming 101]]></title>
             <description><![CDATA[<article><h1>Space Farming 101</h1><p>The beginning of my hydroponic adventure/experiment (AKA space farming) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43fe11a230ec327313784d6dd9c848d0657f3f2e.jpg"></article>]]></description>
-            <link>undefinedspace-farming-101/index.html</link>
+            <link>https://thegrid.ai/spacefarmer/space-farming-101/index.html</link>
             <guid isPermaLink="false">289e5f2c-8392-492c-8f6b-e24059fe20a9</guid>
-            <pubDate>Tue, 19 Jan 2016 18:48:01 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 19:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
