@@ -1,7 +1,20 @@
 name: SpaceFarmer
 favicon: null
-layout_spectrum: 0.4833823200315237
+layout_spectrum: 0.4139785
 typography_spectrum: 0.5915784351527691
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Hydroponics with 3d printing, oodles of sensors, and some home-brewed automation'
 cta:
   domain: null
   bucket: null
@@ -16,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8567106109112501
+    - '#0F0D0C'
+    - '#6E6F6D'
+    - '#FFFFFF'
+    - '#C4C8C6'
+    - '#A31F0E'
+  brandStrength: 0.8261649
   lightness: 0.7301403607707471
   saturation: 0.9602152609732002
   rhythmicContrast: 0.0309643333312124
